@@ -12,3 +12,5 @@ Furthermore, we will support you to use your new skills in relevant workplace pr
 QA Total Learning™ is our newest and most effective way to learn.
 
 Combining the best of digital and live learning, with access to world class industry experts, we focus on making sure you can apply our learning to help you drive impactful results in your workplace. This is all underpinned by our digital platform, giving you the tools to track progress and manage your own learning.
+
+Link: https://myqa.qa.com/
